@@ -49,6 +49,11 @@
             <optional>true</optional>
         </dependency>
 
+        <dependency>
+            <groupId>org.springframework.cloud</groupId>
+            <artifactId>spring-cloud-starter-loadbalancer</artifactId>
+        </dependency>
+
         <!-- OpenFeign Client -->
         <dependency>
             <groupId>org.springframework.cloud</groupId>
